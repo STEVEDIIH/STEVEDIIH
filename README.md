@@ -1,16 +1,16 @@
-## Hi there 👋
+hello there
 
-<!--
-**STEVEDIIH/STEVEDIIH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Steve, a passionate developer exploring web development and tech projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+  - **School Portal** (personal project)
+  - **Organization Portal**: [TFGI – The Fortune Getters Investors Club](https://www.tfgi.co.ke)
+   I’m currently learning **full-stack development**
+-  I’m looking to collaborate on interesting **tech projects**
+- 💬 Ask me about **PHP, Git, and frontend design**
+-  How to reach me: stephenwambugu0077@gmail.com[wambugu stephen cv.docx](https://github.com/user-attachments/files/25043794/wambugu.stephen.cv.docx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+-  Fun fact: I love solving coding challenges!
+
 -->
